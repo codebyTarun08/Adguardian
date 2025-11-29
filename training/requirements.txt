@@ -1,0 +1,13 @@
+pandas
+numpy
+tqdm
+sentence-transformers
+transformers
+torch
+tldextract
+python-whois
+dnspython
+xgboost
+scikit-learn
+joblib
+requests

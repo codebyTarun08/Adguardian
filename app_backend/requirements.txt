@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+joblib
+tldextract
+python-whois
+dnspython
+sentence-transformers
+torch
+xgboost
+shap
+requests
